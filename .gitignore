@@ -23,7 +23,14 @@
 .idea
 .revision
 .settings
-.iml
+.classpath
+.project
+*.iml
+target
+*.jar.asc
+*.jar.md5
+*.jar.sha1
+
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
